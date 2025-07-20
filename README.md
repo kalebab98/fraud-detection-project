@@ -1,4 +1,4 @@
-# fraud-detection-project
+# Fraud-detection-project
 
 # Task 1: Data Analysis and Preprocessing
 
