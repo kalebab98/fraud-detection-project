@@ -121,24 +121,7 @@ We implemented two supervised classification models:
 
 The focus was on handling imbalanced classes, selecting appropriate evaluation metrics, and visualizing model performance effectively.
 
----
 
-## 📂 Directory Structure
-
-```
-
-.
-├── data/
-│   ├── Fraud\_Data.csv
-│   ├── IpAddress\_to\_Country.csv
-│   └── creditcard.csv
-├── scripts/
-│   ├── data\_cleaning.py
-│   └── model\_training.py
-├── results/
-│   └── (plots and evaluation outputs)
-├── README.md
-└── requirements.txt
 
 ````
 
