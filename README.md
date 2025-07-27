@@ -108,7 +108,7 @@ Here’s a **GitHub-ready `README.md`** specifically tailored for **Task 2 - Mod
 
 ---
 
-```markdown
+
 # Task 2: Fraud Detection - Model Building and Evaluation
 
 ## 📌 Overview
@@ -120,7 +120,6 @@ We implemented two supervised classification models:
 - **Random Forest** – as a powerful ensemble model
 
 The focus was on handling imbalanced classes, selecting appropriate evaluation metrics, and visualizing model performance effectively.
-
 
 
 ````
