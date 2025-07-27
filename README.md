@@ -134,7 +134,7 @@ The focus was on handling imbalanced classes, selecting appropriate evaluation m
    git clone https://github.com/your-username/fraud-detection-project.git
    cd fraud-detection-project
 ````
-
+````
 2. Create a virtual environment and install dependencies:
 
    ```bash
